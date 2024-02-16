@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-test22222-repository
+spec:
+  url: https://github.com/stephanie-cy/go-test22222
